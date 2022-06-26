@@ -1634,6 +1634,11 @@ body{
     font-weight: 700;
 }
 
+
+.ayat-set{
+ padding-bottom: 25px;
+}
+
 .ayah-01{
   height: auto;
   width: 91%;
